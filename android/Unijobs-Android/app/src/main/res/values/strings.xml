@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Unijobs</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_title">Welcome to Unijobs!</string>
+    <string name="auth_failed">Login failed.</string>
+    <string name="auth_failed_2">You have to write something.</string>
+    <string name="signup_button">Signup</string>
+    <string name="register_failed">Register failed.</string>
+    <string name="register_complete">Congrats! You registered.</string>
+    <string name="register_button">Register</string>
+    <string name="singup_title">Signup</string>
+    <string name="sign_out">Sign out</string>
+    <string name="received_notification">Received notification</string>
+    <string name="received_notification_2">Received notification.</string>
+    <string name="add_job">Add job</string>
+    <string name="job_details">Job details</string>
+    <string name="add_new_job">Add new job!</string>
+    <string name="hello_guest">Hello, guest!</string>
+    <string name="guest_message">You only see 3 jobs. You have to register.</string>
+</resources>

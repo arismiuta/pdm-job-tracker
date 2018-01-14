@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "430535858808",
+    "firebase_url": "https://unijobs-android.firebaseio.com",
+    "project_id": "unijobs-android",
+    "storage_bucket": "unijobs-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430535858808:android:113f07fa7706afc5",
+        "android_client_info": {
+          "package_name": "app.unijobs.ro.unijobs_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430535858808-4cn3tarvjj00l2k3c5f1llpa4t3j1lk5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.unijobs.ro.unijobs_android",
+            "certificate_hash": "238063b414c8d7e68caa2c5c296e565606d81f4a"
+          }
+        },
+        {
+          "client_id": "430535858808-1au3k43vqhh3i8rda8nng29er457fq86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJgsOBg1IDILQnDLHpAWiaguysWIpNkDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430535858808-1au3k43vqhh3i8rda8nng29er457fq86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
